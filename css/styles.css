@@ -10142,8 +10142,22 @@ section.resume-section .resume-section-content {
 }
 
 .datacamp-icon {
-  height: 40px;
-  width: 70px;
+  height: 60px;
+  width: 100px;
+  background-color: transparent;
+  display: inline-flex;
+}
+
+.udemy-icon {
+  height: 60px;
+  width: 100px;
+  background-color: transparent;
+  display: inline-flex;
+}
+
+.auuni-icon {
+  height: 80px;
+  width: 80px;
   background-color: transparent;
   display: inline-flex;
 }
