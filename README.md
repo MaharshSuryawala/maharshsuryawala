@@ -5,15 +5,17 @@ From dismantling video game consoles as a kid to building my own robots and writ
 
 Nowadays, I dedicate my time and passion building end to end products in the field of data science and engineering. I am experienced with full-stack development and building highly scalable production ready deep-learning / machine-learning models.
 
-Feel free to reach out if you have any questions or just a chat. ☕ 
-
 [Portfolio - Maharsh Suryawala](https://maharshsuryawala.github.io/maharshsuryawala/)
 
+Feel free to reach out if you have any questions or just a chat. ☕ 
 
-[![Gmail](https://api.iconify.design/logos:google-gmail.svg?width=30&height=40)](mailto:maharshsuryawala@gmail.com) 
+
+[![Gmail](https://api.iconify.design/logos:google-gmail.svg?width=40&height=40)](mailto:maharshsuryawala@gmail.com) 
+
+
 [![Linkedin](https://api.iconify.design/openmoji:linkedin.svg?width=40&height=40)](https://www.linkedin.com/in/maharsh-suryawala-05410312b/) 
 [![Twitter](https://api.iconify.design/openmoji:twitter.svg?width=40&height=40)](https://twitter.com/_maharsh) 
-[![Instagram](https://api.iconify.design/openmoji:instagram.svg?width=40&height=40)](https://www.instagram.com/___maharsh___/) 
+[![Instagram](https://api.iconify.design/logos:instagram-icon.svg?width=30&height=40)](https://www.instagram.com/___maharsh___/) 
 
 
 
