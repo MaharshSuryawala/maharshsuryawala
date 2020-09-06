@@ -107,7 +107,7 @@ address {
 }
 
 ol,
-ul,
+ul ,
 dl {
   margin-top: 0;
   margin-bottom: 1rem;
@@ -7632,7 +7632,7 @@ button.bg-dark:focus {
 
 .mb-5,
 .my-5 {
-  margin-bottom: 3rem !important;
+  margin-bottom: 1.5rem !important;
 }
 
 .ml-5,
