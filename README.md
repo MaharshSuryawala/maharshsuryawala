@@ -1,9 +1,7 @@
 ### Hi there, I'm Maharsh. 👋
 
 
-From dismantling video game consoles as a kid to building my own robots and writing software; The curiosity, passion, and the urge to make things work lives on.
-
-Nowadays, I dedicate my time and passion building end to end products in the field of data science and engineering. I am experienced with full-stack development and building highly scalable production ready deep-learning / machine-learning models.
+Driven Information and Communication Technology engineer with a mission to create an impact and contribute to the next generation of human-technological evolution. Highly motivated and passionate about everything that has to do with technology and science. Experienced in building end to end products from concept to completion.
 
 [Portfolio - Maharsh Suryawala](https://maharshsuryawala.github.io/maharshsuryawala/)
 
