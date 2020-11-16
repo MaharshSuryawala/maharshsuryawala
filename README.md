@@ -5,7 +5,7 @@ Driven Information and Communication Technology engineer with a mission to creat
 
 [Portfolio - Maharsh Suryawala](https://maharshsuryawala.github.io/maharshsuryawala/)
 
-Feel free to reach out if you have any questions or just a chat.
+Feel free to reach out if you have any questions.
 
 
 [![Gmail](https://api.iconify.design/logos:google-gmail.svg?width=40&height=40)](mailto:maharshsuryawala@gmail.com) 
