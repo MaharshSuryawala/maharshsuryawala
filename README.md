@@ -1,12 +1,14 @@
 ### Hi there, I'm Maharsh. 👋
 
 
-Driven Information and Communication Technology engineer with a mission to create an impact and contribute to the next generation of human-technological evolution. Highly motivated and passionate about everything that has to do with technology and science. Experienced in building end to end products from concept to completion.
+* Driven Information and Communication Technology engineer with a mission to create an impact and contribute to the next generation of human-technological evolution. 
+* Highly motivated and passionate about everything that has to do with technology and science. 
+* Experienced in building end to end products from concept to completion.
 
 Feel free to reach out if you have any questions.
 
 
-[![Gmail](https://api.iconify.design/logos:google-gmail.svg?width=40&height=40)](mailto:maharshsuryawala@gmail.com) 
+[![Gmail](https://api.iconify.design/logos:google-gmail.svg?width=30&height=30)](mailto:maharshsuryawala@gmail.com) 
 
 
 [![Linkedin](https://api.iconify.design/openmoji:linkedin.svg?width=40&height=40)](https://www.linkedin.com/in/maharsh-suryawala-05410312b/) 
