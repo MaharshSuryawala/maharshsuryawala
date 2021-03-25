@@ -5,10 +5,9 @@
 * Highly motivated and passionate about everything that has to do with technology and science. 
 * Experienced in building end to end products from concept to completion.
 
-Feel free to reach out if you have any questions.
+Feel free to reach out if you have any questions --> [![Gmail](https://api.iconify.design/logos:google-gmail.svg?width=30&height=14)](mailto:maharshsuryawala@gmail.com) 
 
 
-[![Gmail](https://api.iconify.design/logos:google-gmail.svg?width=30&height=30)](mailto:maharshsuryawala@gmail.com) 
 
 
 [![Linkedin](https://api.iconify.design/openmoji:linkedin.svg?width=40&height=40)](https://www.linkedin.com/in/maharsh-suryawala-05410312b/) 
@@ -31,7 +30,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[![forthebadge](https://forthebadge.com/images/badges/winter-is-coming.svg)](https://forthebadge.com)
-
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
