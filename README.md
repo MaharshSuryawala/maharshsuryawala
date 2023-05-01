@@ -1,7 +1,7 @@
 ### Hi there, I'm Maharsh. 👋
 
 
-* Driven Information and Communication Technology engineer with a mission to create an impact and contribute to the next generation of human-technological evolution. 
+* Driven software engineer with a mission to create an impact and contribute to the next generation of human-technological evolution. 
 * Highly motivated and passionate about everything that has to do with technology and science. 
 * Experienced in building end to end products from concept to completion.
 
